@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh775&show_icons=true&locale=en&layout=compact" alt="rishabh775" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh775" alt="rishabh775" /></a> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh775&show_icons=true&locale=en" alt="rishabh775" /></p>
 
