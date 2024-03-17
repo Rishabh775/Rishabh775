@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **FrontEnd**
 
-- 📫 How to reach me **Rishabh797604@gmail.com**
+- 📫 How to reach me **Rishabh797604@gmail.com / https://my-portfolio-nine-eta-41.vercel.app/ **
 
 - ⚡ Fun fact **Next.js is Fun**
 
